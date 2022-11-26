@@ -3,14 +3,14 @@
       {
         "date": "13/10/2022",
         "title": "Food Delivery App",
-        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "description": "Technologies used in this project are: Node js, Express js, MySQL, SCSS",
         "url": "https://github.com/SimranThakur07/Food-Delivery-App",
         "imgSrc": "https://cdn.dribbble.com/users/3993860/screenshots/15432999/media/f3749738bc9a96e364ea1522b1f8c339.png?compress=1&resize=400x300"
       },
       {
         "date": "26/11/2022",
         "title": "PORTFOLIO",
-        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "description": "Technologies used in this project are: React js, Firebase, SCSS",
         "url": "/",
         "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
       },
@@ -18,7 +18,7 @@
       {
         "date": "20/11/2022",
         "title": "React-Chakra-Ui-Project",
-        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "description": "Technologies used in this project are: React js, React-Router,",
         "url": "https://github.com/SimranThakur07/React-Chakra-Ui-Project",
         "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
       },
@@ -26,7 +26,7 @@
       {
         "date": "04/05/2022",
         "title": "Todo-App",
-        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "description": "Technologies used in this project are: JavaScript, HTML, CSS",
         "url": "https://github.com/SimranThakur07/todo-app-main",
         "imgSrc": "https://1.bp.blogspot.com/-i78iKr_P9Pk/X9ohjXyc5eI/AAAAAAAAA_4/8UauxZaOgUshGK7MXwW1gZqts7Zrf_AewCLcBGAsYHQ/s1280/Todo%2BList%2BApp%2Busing%2BHTML%2BCSS%2B%2526%2BJavaScript.webp"
       },
