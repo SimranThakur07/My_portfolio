@@ -8,13 +8,20 @@
         "imgSrc": "https://cdn.dribbble.com/users/3993860/screenshots/15432999/media/f3749738bc9a96e364ea1522b1f8c339.png?compress=1&resize=400x300"
       },
       {
+        "date": "02/11/2023",
+        "title": "ECommerce",
+        "description": "Technologies used in this project are: React JS, Strapi, Stripe",
+        "url": "https://github.com/SimranThakur07/Ecommerce",
+        "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      },
+      {
         "date": "26/11/2022",
         "title": "PORTFOLIO",
         "description": "Technologies used in this project are: React js, Firebase, SCSS",
         "url": "/",
         "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
       },
-  
+      
       {
         "date": "20/11/2022",
         "title": "React-Chakra-Ui-Project",
@@ -29,15 +36,7 @@
         "description": "Technologies used in this project are: JavaScript, HTML, CSS",
         "url": "https://github.com/SimranThakur07/todo-app-main",
         "imgSrc": "https://1.bp.blogspot.com/-i78iKr_P9Pk/X9ohjXyc5eI/AAAAAAAAA_4/8UauxZaOgUshGK7MXwW1gZqts7Zrf_AewCLcBGAsYHQ/s1280/Todo%2BList%2BApp%2Busing%2BHTML%2BCSS%2B%2526%2BJavaScript.webp"
-      },
-  
-      {
-        "date": "23/11/2022",
-        "title": "SAMPLE",
-        "description": "Still Working on it!",
-        "url": "",
-        "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
       }
-      
+  
     ]
 }
